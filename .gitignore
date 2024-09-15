@@ -1,0 +1,17 @@
+*Build
+*DerivedDataCache
+*Intermediate
+*Binaries
+Saved/*
+!Saved/Config/
+Saved/Config/CrashReportClient/*
+# *InfinityBladeEffects
+Untitled.umap
+*MDL
+*StonePagoda
+*_ExternalActors_
+*_ExternalObjects_
+__ExternalActors__/
+__ExternalObjects__/
+
+*Asian_Village
